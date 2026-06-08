@@ -1,5 +1,8 @@
 ## This project was migrated from [in-serinder/KeilMiscProject](https://github.com/in-serinder/KeilMiscProject) to this repository
 
+[简体中文](./ReadME_CN.md)/
+[English](./ReadME.md)
+
 ### Driver List
 
 - [51 TM1637 Display Driver](./51_Driver_TM1637/)
